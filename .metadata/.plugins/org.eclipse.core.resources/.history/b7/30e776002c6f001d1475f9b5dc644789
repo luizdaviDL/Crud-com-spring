@@ -1,0 +1,10 @@
+package com.crud.crud_full.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "tb_user")
+public class User {
+
+}
